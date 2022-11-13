@@ -2,4 +2,7 @@
  
  React Tailwind Vite starter 
  
- clone this repository and yarn dev
+ ```
+ yarn
+ yarn dev
+ ```
